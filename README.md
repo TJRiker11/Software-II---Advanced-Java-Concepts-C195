@@ -8,6 +8,7 @@ You are working for a software company that has been contracted to develop a sch
 
 
 
+
 The organization outlined specific business requirements that must be included as part of the application. From these requirements, a system analyst at your company created solution statements for you to implement in developing the application. These statements are listed in the requirements section.
 
 REQUIREMENTS
